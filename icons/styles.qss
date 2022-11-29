@@ -1,0 +1,47 @@
+*{
+    font-weight: bold;
+    font-size: 14px;
+    color: #363636;
+}
+
+QPushButton#runButton {
+  
+  font-weight: bold;
+  padding: 10px;
+  border-color: #000;
+  border-style: solid;
+  border-width: 2px;
+  border-width: 0;
+  border-radius: 5px;
+  background-color: #2ecc71;
+  color: #2c373a;   
+  
+}
+
+QTextEdit#commandInput{
+    border-radius: 5px;
+    selection-background-color: #5380a8;
+    background-color: #bebebe;
+    color: #4153ba
+    
+}
+
+QTextEdit#commandOutput{
+    border-radius: 5px;
+    selection-background-color: #5380a8;
+    background-color: #bebebe;
+    color: #4153ba
+}
+
+QWidget#errorWidget {
+    background-color: #f2d8f8;
+    color: #4153ba;
+}
+
+QLabel#titleMessage{
+    font-weight: bold;
+    font-size: 14px;
+    color: #363636;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
