@@ -21,4 +21,4 @@ Tool developed for the network services class. This tool allows users to connect
 
 ![B](/screenShots/snmp_2.png)
 
-![C](/screenShots/snmp_2.png)
+![C](/screenShots/snmp_3.png)
